@@ -10,7 +10,6 @@ import requests
 GPIO.setmode(GPIO.BCM)
 GPIO.setup(23, GPIO.IN)
 
-TOKEN = "dddI0ti2swUAAAAAAAAAJmfju3ZjDkhlTvgScGLjrPS3h3-3mOYGjmfGraeKNZ5L"
 
 PHOTOFORMAT = "jpeg"
 
