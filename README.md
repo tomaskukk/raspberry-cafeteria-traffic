@@ -1,4 +1,4 @@
-# This application sends pictures to my hhapp backend to track queue in the cafeteria
+## This application sends pictures to my hhapp backend to track queue in the cafeteria
 
 ## Why?
 
